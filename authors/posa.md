@@ -26,7 +26,7 @@ Photoshop, Word, Excel, PowerPoint, WordPress, Python, usw.
 ## Mein Motto
 
 > Dream as if you'll live forever. Live as if you'll die Today.
-> *Englisches Sprichwort*
+> *Lebron James*
 
 ## Sprachen die ich spreche
 
