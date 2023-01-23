@@ -1,6 +1,6 @@
 # Samad Pour
 
-![Samad Pour]()
+![Samad Pour](https://media.licdn.com/dms/image/C4E03AQF_eFkRLcrNXw/profile-displayphoto-shrink_100_100/0/1660053413983?e=1680134400&v=beta&t=rKXUqJCUdkc7xbGT4ijPTCiB38WrwOkHPbHYPHjgDvI)
 
 ## Kurze Biographie
 
