@@ -6,18 +6,24 @@
 
 Ich bin ein kreativer und talentierter Programmierer mit umfassender Erfahrung in der Entwicklung und Programmierung von Apps. Ich habe mich auf Projekte spezialisiert, die meinen Kunden helfen, sich auf einem geschäftigen Markt von anderen abzuheben. Ich habe remote, intern und als Freelancer für eine Vielzahl von Kunden gearbeitet. Unabhängig davon, wo ich arbeite oder welche Art von Projekt sich gerade in der Entwicklung befindet, ich bin stolz darauf, die Erwartungen meiner Kunden zu übertreffen. Zur Zeit bin ich Lehrling als Software Engineer bei einem Unternehmen in der Schweiz.
 
-### IT-Kenntnisse
+## IT-Kenntnisse
 
-Grundlegende Kenntnisse:
+##### Grundlegende Kenntnisse:
 Java, Swift, PHP, Html, CSS, SQL
 
-### Meine Ausbildungsschritte
+### Weitere Anwendungen
 
+Photoshop, Word, Excel, PowerPoint, WordPress, Python, usw.
+
+## Meine Ausbildungsschritte
+
+- 2014: Android-Entwicklungskurs (Onlinekurs) mit Veröffentlichung von Apps
+- 2016: Webdesign-Kurs Entwurf eigener Websites und Telegram-Bots
 - 2016: Studium in Erziehungswissenschaften
-- 2019: iOS-Entwicklungskurs, Onlinekurs
+- 2019: iOS-Entwicklungskurs (Onlinekurs) mit Veröffentlichung von Apps
+- 2022: Beginn der Berufslehre als Informatiker EFZ bei innosolv AG
 
-
-### Mein Motto
+## Mein Motto
 
 > Dream as if you'll live forever. Live as if you'll die Today.
 > *Englisches Sprichwort*
@@ -30,9 +36,25 @@ Java, Swift, PHP, Html, CSS, SQL
 
 ## Social Media Profile
 
-- [Linked In](https://www.linkedin.com/in/samad-pour/)
+- [LinkedIn](https://www.linkedin.com/in/samad-pour/)
 
 ## Hallo Welt in meiner Lieblingssprache
+
+Ein Beispiel in `C#`:
+
+```c
+using System;
+ 
+namespace HelloWorld
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+```
 
 Ein Beispiel in `C`:
 
