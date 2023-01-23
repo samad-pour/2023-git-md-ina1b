@@ -2,6 +2,6 @@
 
 Die Autoren dieser Referenz sind:
 
-* *<Ergänzen sie hier Ihren eigenen Namen und sortieren Sie die Liste alphabetisch>*
+[Samad Pour](posa.md)
 
 Begleitet durch [Samad Pour](posa.md)
